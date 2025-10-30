@@ -13,11 +13,14 @@ I am a Computer Science graduate passionate about leveraging digital transformat
 **Tools & Cloud:** Git, Docker, GitHub Actions, AWS  
 **Other:** RESTful APIs, Unit & Integration Testing, CI/CD  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusrax&layout=compact&theme=radical)](https://github.com/yusrax)
+
+
 ---
 
 ## 📂 Featured Projects
 
-- **[Borrow My Charger](link)** – Full-stack web application connecting EV drivers with private charging points. Built with Laravel, React, MySQL, and Docker.  
-- **[World Trade Simulation](link)** – C++ OpenGL application simulating global trade networks with spring-based physics, multiple layouts, and interactive HUD.  
+- **[Borrow My Charger](https://github.com/yusrax/borrow-my-charger)** – Full-stack web application connecting EV drivers with private charging points. Built with Laravel, React, MySQL, and Docker.  
+- **[World Trade Simulation](https://github.com/yusrax/world-trade-simulation)** – C++ OpenGL application simulating global trade networks with spring-based physics, multiple layouts, and interactive HUD.  
 - **[Bruntwood SciTech Visualizer](link)** – HackCamp project creating an interactive data visualization tool for meeting room usage.  
-- **[Flow](link)** – Personal project demonstrating scalable architecture and modular design.  
+- **[Flow](https://github.com/yusrax/flow)** – Personal project demonstrating scalable architecture and modular design.  
