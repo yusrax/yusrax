@@ -1,7 +1,6 @@
 # Hi, I'm Yusra Kabir 👋
 
-I am a **First Class Computer Science graduate** passionate about building scalable software, data visualizations, and full-stack applications that improve businesses and people’s lives.  
-
+A **Computer Science graduate** passionate about leveraging **digital transformation to solve real-world problems** for people and businesses. I enjoy designing and building **tools and applications that are intuitive, user-friendly, and impactful**, ensuring that solutions meet users’ needs while enhancing their experience and quality of life. My focus is on **combining thoughtful design with reliable, scalable software development** to create meaningful, high-quality solutions.
 ---
 
 ## 💻 Skills & Technologies
