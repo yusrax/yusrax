@@ -21,5 +21,3 @@ I am a Computer Science graduate passionate about leveraging digital transformat
 - **[World Trade Simulation](link)** – C++ OpenGL application simulating global trade networks with spring-based physics, multiple layouts, and interactive HUD.  
 - **[Bruntwood SciTech Visualizer](link)** – HackCamp project creating an interactive data visualization tool for meeting room usage.  
 - **[Flow](link)** – Personal project demonstrating scalable architecture and modular design.  
-
---
