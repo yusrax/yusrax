@@ -6,10 +6,10 @@ I am a Computer Science graduate passionate about leveraging digital transformat
 
 ## 💻 Skills & Technologies
 
-**Languages:** C++, PHP, Java, JavaScript/TypeScript, Python  
+**Languages:** PHP, Java, C++, JavaScript/TypeScript
 **Frontend:** React, Vue.js, HTML, CSS  
-**Backend & Frameworks:** Laravel, Node.js  
-**Databases:** MySQL, PostgreSQL  
+**Backend & Frameworks:** Laravel, Symfony, Node.js  
+**Databases:** MySQL
 **Tools & Cloud:** Git, Docker, GitHub Actions, AWS  
 **Other:** RESTful APIs, Unit & Integration Testing, CI/CD  
 
@@ -22,11 +22,4 @@ I am a Computer Science graduate passionate about leveraging digital transformat
 - **[Bruntwood SciTech Visualizer](link)** – HackCamp project creating an interactive data visualization tool for meeting room usage.  
 - **[Flow](link)** – Personal project demonstrating scalable architecture and modular design.  
 
----
-
-## 🌱 Community & Collaboration
-
-- Participated in **Generating Genius: Black Women in Tech**, mentoring and supporting aspiring tech students.  
-- Passionate about contributing to **open-source projects** and collaborative software development.  
-
-
+--
