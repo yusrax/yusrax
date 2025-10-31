@@ -22,7 +22,7 @@ I am a Computer Science graduate passionate about leveraging digital transformat
 
 - **[Borrow My Charger](https://github.com/yusrax/borrow-my-charger)** – Full-stack web application connecting EV drivers with private charging points. Built with Laravel, React, MySQL, and Docker.  
 - **[World Trade Simulation](https://github.com/yusrax/world-trade-simulation)** – C++ OpenGL application simulating global trade networks with spring-based physics, multiple layouts, and interactive HUD.  
-- **[Bruntwood SciTech Visualizer](link)** – HackCamp project creating an interactive data visualization tool for meeting room usage.  
+- **[Bruntwood SciTech Visualizer](https://github.com/bonewellj/Bruntwood)** – HackCamp project creating an interactive data visualization tool for meeting room usage.  
 - **[Flow](https://github.com/yusrax/flow)** – Personal project demonstrating scalable architecture and modular design.
 - **[Bookshelf](https://github.com/yusrax/book-review-frontend)** – Full-stack book review application.  
   - **Frontend:** [React repo](https://github.com/yusrax/book-review-frontend) for browsing, reviewing, and rating books.  
