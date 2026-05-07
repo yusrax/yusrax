@@ -6,13 +6,15 @@ I’m a software developer who enjoys building impactful tools that improve peop
 
 ## 💻 Skills & Technologies
 
-**Languages:** JavaScript, PHP, Python, C  
+**Languages:** JavaScript, PHP, Python, C, C++  
 
 **Frontend & Mobile:** React, React Native, Vue, HTML, CSS  
 
 **Backend & APIs:** Node.js, Laravel, Symfony, RESTful APIs  
 
-**Tools & Cloud:** Git, Docker, AWS, CI/CD (GitHub Actions), Laravel Forge, Terraform    
+**Databases:** MySQL, Firebase Firestore  
+
+**Tools, Cloud & DevOps:** Git, Docker, AWS, Firebase, CI/CD (GitHub Actions), Laravel Forge, Terraform  
 
 ---
 
