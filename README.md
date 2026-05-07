@@ -1,4 +1,4 @@
-# Hi, I'm Yusra Kabir 👋
+# Hi, I'm Yusra Kabir 🙃
 
 I’m a software developer who enjoys building impactful tools that improve people’s day-to-day experiences. I’m particularly interested in using technology for good, creating practical solutions that solve real problems for real people. My work focuses on developing robust web and mobile applications with intuitive and thoughtfully designed user interfaces.
 
