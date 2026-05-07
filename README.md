@@ -20,22 +20,54 @@ I build robust web and mobile applications with intuitive, thoughtfully designed
 
 ## 📂 Featured Projects
 
-### [Flow](https://github.com/yusrax/flow)
-Cross-platform mobile app for ADHD-focused academic task management.  
-**Tech:** React Native, Firebase, React Navigation, Redux, Context API  
-**Features:** Authentication, notifications, real-time data
+<table>
+<tr>
+<td width="50%">
 
-### [Borrow My Charger](https://github.com/yusrax/borrow-my-charger)
-EV charging platform connecting drivers with homeowners for paid charger access.  
-**Tech:** PHP, JavaScript, HTML, CSS, MySQL  
-**Features:** Authentication, maps integration, booking system
+### 📱 Flow  
+Cross-platform mobile app for ADHD-focused task management  
 
-### [BookShelf](https://github.com/yusrax/book-review-frontend)
-Book review platform for browsing, reviewing, and managing books.  
-**Tech:** React, Symfony, MySQL, REST APIs  
-**Features:** Authentication, state management, CRUD operations
+**Tech:** React Native, Firebase  
+**Features:** Auth, Notifications, Real-time data  
 
-### [World Trade Simulation](https://github.com/yusrax/world-trade-simulation)
-OpenGL simulation of global trade networks using physics-based modelling.  
+🔗 [View Project](https://github.com/yusrax/flow)
+
+</td>
+<td width="50%">
+
+### ⚡ Borrow My Charger  
+EV charging platform connecting drivers with homeowners  
+
+**Tech:** PHP, JavaScript, MySQL  
+**Features:** Auth, Maps, Booking  
+
+🔗 [View Project](https://github.com/yusrax/borrow-my-charger)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📚 BookShelf  
+Book review platform with full-stack architecture  
+
+**Tech:** React, Symfony, MySQL  
+**Features:** Auth, CRUD, State management  
+
+🔗 [Frontend](https://github.com/yusrax/book-review-frontend)
+
+</td>
+<td width="50%">
+
+### 🌍 World Trade Simulation  
+Physics-based OpenGL network visualisation  
+
 **Tech:** C++, OpenGL  
-**Features:** Custom physics calculations, interactive visualisation, HUD
+**Features:** Physics engine, Interactive HUD  
+
+🔗 [View Project](https://github.com/yusrax/world-trade-simulation)
+
+</td>
+</tr>
+</table>
