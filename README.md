@@ -18,15 +18,15 @@ I’m a software developer who enjoys building impactful tools that improve peop
 
 ## 📂 Featured Projects
 
+- **[Flow](https://github.com/yusrax/flow)**  
+  Cross-platform mobile app for ADHD-focused academic task management.  
+  **Tech:** React Native, Firebase, React Navigation, Redux, Context API  
+  **Features:** Authentication, Notifications, Real-time data
+  
 - **[Borrow My Charger](https://github.com/yusrax/borrow-my-charger)**  
   EV charging platform connecting drivers with homeowners for paid charger access.  
   **Tech:** PHP, JavaScript, HTML, CSS, MySQL  
   **Features:** Authentication, Maps integration, Booking system  
-
-- **[Flow](https://github.com/yusrax/flow)**  
-  Cross-platform mobile app for ADHD-focused academic task management.  
-  **Tech:** React Native, Firebase, React Navigation, Redux, Context API  
-  **Features:** Authentication, Notifications, Real-time data  
 
 - **[BookShelf](https://github.com/yusrax/book-review-frontend)**  
   Book review platform for browsing, reviewing, and managing books.  
@@ -38,7 +38,3 @@ I’m a software developer who enjoys building impactful tools that improve peop
   **Tech:** C++, OpenGL  
   **Features:** Custom physics calculations, Interactive visualisation, HUD  
 
-- **[Bruntwood SciTech Visualiser](https://github.com/bonewellj/Bruntwood)**  
-  Data visualisation tool for analysing meeting room usage.  
-  **Tech:** PHP, JPGraph  
-  **Features:** Data visualisation, Reporting interface  
